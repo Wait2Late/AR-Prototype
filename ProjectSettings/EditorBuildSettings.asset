@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e0b107838e28fbe429e202ea20793935, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 517adc29b1b6df04892747eb5029a974, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: acc6051097c817140b6eba23e490ffaa, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 70c1b1a968fa99742aff78154644dfc2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3a323d9bc90bbce4888706b122c1d5da, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d94837ba46e399849bee9b0eaae7075e, type: 2}
